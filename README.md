@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋, I'm Lionel — A Passionate Web Developer from India</h2>
+<h2 align="center">Hi 👋, I'm zahida — A Passionate Web Developer from India</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&width=435&lines=Full+Stack+Web+Developer;BSc+Computer+Science+Student;Lifelong+Learner+🚀" />
@@ -14,7 +14,7 @@
 - 🌱 Currently learning: **MERN Stack + AWS**
 - 🛠️ Building: Cool web apps with **MongoDB | Express | React | Node**
 - 💬 Ask me about: **JS, React, Git, Python**
-- 📧 Reach me: `00lionel11@gmail.com`
+- 📧 Reach me: `zahidamaz.com`
 - 🎯 2025 Goal: Land a job & contribute to open source
 
 ---
